@@ -1,4 +1,4 @@
-FROM ubuntu:14.04
+FROM ubuntu:18.04
 MAINTAINER Park Ki-hyuk <hyuk@etri.re.kr>
 
 RUN apt-get update
